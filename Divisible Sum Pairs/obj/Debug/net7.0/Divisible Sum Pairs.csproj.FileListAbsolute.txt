@@ -1,0 +1,15 @@
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/bin/Debug/net7.0/Divisible Sum Pairs
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/bin/Debug/net7.0/Divisible Sum Pairs.deps.json
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/bin/Debug/net7.0/Divisible Sum Pairs.runtimeconfig.json
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/bin/Debug/net7.0/Divisible Sum Pairs.dll
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/bin/Debug/net7.0/Divisible Sum Pairs.pdb
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/Divisible Sum Pairs.csproj.AssemblyReference.cache
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/Divisible Sum Pairs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/Divisible Sum Pairs.AssemblyInfoInputs.cache
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/Divisible Sum Pairs.AssemblyInfo.cs
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/Divisible Sum Pairs.csproj.CoreCompileInputs.cache
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/Divisible Sum Pairs.dll
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/refint/Divisible Sum Pairs.dll
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/Divisible Sum Pairs.pdb
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/Divisible Sum Pairs.genruntimeconfig.cache
+/Users/franco/Coding/DS_and_Algorithms_C#/Divisible Sum Pairs/obj/Debug/net7.0/ref/Divisible Sum Pairs.dll

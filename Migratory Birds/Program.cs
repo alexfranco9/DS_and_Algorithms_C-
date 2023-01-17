@@ -53,6 +53,5 @@ static int migratoryBirds(List<int> arr)
     return min;
 }
 
-
 Console.WriteLine($"The answer is: {migratoryBirds(arr)}");
 
