@@ -1,0 +1,15 @@
+/Users/franco/Coding/Algos-C#/Migratory Birds/bin/Debug/net7.0/Migratory Birds
+/Users/franco/Coding/Algos-C#/Migratory Birds/bin/Debug/net7.0/Migratory Birds.deps.json
+/Users/franco/Coding/Algos-C#/Migratory Birds/bin/Debug/net7.0/Migratory Birds.runtimeconfig.json
+/Users/franco/Coding/Algos-C#/Migratory Birds/bin/Debug/net7.0/Migratory Birds.dll
+/Users/franco/Coding/Algos-C#/Migratory Birds/bin/Debug/net7.0/Migratory Birds.pdb
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/Migratory Birds.csproj.AssemblyReference.cache
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/Migratory Birds.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/Migratory Birds.AssemblyInfoInputs.cache
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/Migratory Birds.AssemblyInfo.cs
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/Migratory Birds.csproj.CoreCompileInputs.cache
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/Migratory Birds.dll
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/refint/Migratory Birds.dll
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/Migratory Birds.pdb
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/Migratory Birds.genruntimeconfig.cache
+/Users/franco/Coding/Algos-C#/Migratory Birds/obj/Debug/net7.0/ref/Migratory Birds.dll
